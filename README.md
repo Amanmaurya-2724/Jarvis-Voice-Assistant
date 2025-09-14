@@ -64,24 +64,24 @@ but note:
 On cloud deployment, manual input + Wikipedia + web browsing + TTS will work.
 
 📌 Example Commands
-"Open YouTube"
+-"Open YouTube"
 
-"Search Python in Wikipedia"
+-"Search Python in Wikipedia"
 
-"What is the time"
+-"What is the time"
 
-"Shutdown my system"
+-"Shutdown my system"
 
-"What's my battery status"
+-"What's my battery status"
 
 🛠️ Tech Stack
-Streamlit – UI framework
+-Streamlit – UI framework
 
-SpeechRecognition – Voice input
+-SpeechRecognition – Voice input
 
-gTTS – Text-to-speech
+-gTTS – Text-to-speech
 
-psutil – System monitoring
+-psutil – System monitoring
 
-Wikipedia API – Information search
+-Wikipedia API – Information search
 
