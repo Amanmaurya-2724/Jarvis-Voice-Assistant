@@ -18,3 +18,5 @@ An AI-powered voice assistant built using **Streamlit**, **SpeechRecognition**, 
 ## 💡 How to Run
 ```bash
 python -m streamlit run "voice assistant.py"
+
+-Available at your primary URL https://jarvis-voice-assistant-2-d7hr.onrender.com
